@@ -104,5 +104,10 @@ The project supports **predicting ASD from a single image**:
 - Features extracted using CNN
 - Final prediction made using trained ML classifier
 
-Example output:
+---
+
+## 📤 Example Output
+
+### 🔹 Model Training Output
+
 
